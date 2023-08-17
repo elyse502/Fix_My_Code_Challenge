@@ -5,7 +5,7 @@ This was a series of projects provided by Holberton School in which I was challe
 ## Authors :black_nib:
 1. _NIYIBIZI Elysée - [elyseniyibizi502@gmail.com](https://mail.google.com/mail/u/0/#inbox) -> [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
-## Acknowledgements
+## Acknowledgements 🤝
 All work contained in this project was completed as part of the curriculum for Alx-Holberton School. Alx-Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this link.
 
 <p align="center">
