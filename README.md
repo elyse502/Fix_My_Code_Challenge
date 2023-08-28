@@ -2,7 +2,7 @@
 This was a series of projects provided by Alx-Holberton School in which I was challenged with debugging various programs. The challenges spanned a variety of programming languages from C to Python to Javascript and more, some of which I was familiar with, others of which I was not. The specific list of projects contained follows:
 * [0x00. Fix my code](0x00-challenge)
 
-## Authors :black_nib:
+## Author :black_nib:
 _[NIYIBIZI Elysée](https://mail.google.com/mail/u/0/#inbox) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
 ## Acknowledgements 🤝
